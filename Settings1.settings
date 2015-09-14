@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="mostar_lista" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="direccion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="contrasena" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Jesus123</Value>
+    </Setting>
+    <Setting Name="usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Jesus</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

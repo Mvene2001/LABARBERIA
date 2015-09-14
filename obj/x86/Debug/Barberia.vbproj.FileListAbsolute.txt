@@ -1,0 +1,123 @@
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form_carroDeVenta.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\Barberia.vbproj.GenerateResource.Cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.agregarProducto.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reportes.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\RdlCompile.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+G:\WindowsApplication1\bin\Debug\LA BARBERIA PDV.exe.config
+G:\WindowsApplication1\obj\x86\Debug\Interop.VBIDE.dll
+G:\WindowsApplication1\obj\x86\Debug\Barberia.vbproj.ResolveComReference.cache
+G:\WindowsApplication1\bin\Debug\LA BARBERIA PDV.exe
+G:\WindowsApplication1\bin\Debug\LA BARBERIA PDV.pdb
+G:\WindowsApplication1\bin\Debug\LA BARBERIA PDV.xml
+G:\WindowsApplication1\obj\x86\Debug\Barberia.vbprojResolveAssemblyReference.cache
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.agregarProducto.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.citas.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form_carroDeVenta.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form_Clientes.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form_Empleados.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.login.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Principal.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.reportes.resources
+G:\WindowsApplication1\obj\x86\Debug\WindowsApplication1.ventana_inicio.resources
+G:\WindowsApplication1\obj\x86\Debug\Barberia.vbproj.GenerateResource.Cache
+G:\WindowsApplication1\obj\x86\Debug\RdlCompile.cache
+G:\WindowsApplication1\obj\x86\Debug\RdlCompile.compiled
+G:\WindowsApplication1\obj\x86\Debug\LA BARBERIA PDV.exe
+G:\WindowsApplication1\obj\x86\Debug\LA BARBERIA PDV.xml
+G:\WindowsApplication1\obj\x86\Debug\LA BARBERIA PDV.pdb
+G:\WindowsApplication1\bin\Debug\LA BARBERIA PDV.exe.manifest
+G:\WindowsApplication1\bin\Debug\LA BARBERIA PDV.application
+G:\WindowsApplication1\obj\x86\Debug\LA BARBERIA PDV.exe.manifest
+G:\WindowsApplication1\obj\x86\Debug\LA BARBERIA PDV.application
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe.config
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\Interop.VBIDE.dll
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbproj.ResolveComReference.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe.manifest
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.application
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbprojResolveAssemblyReference.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.agregarProducto.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.citas.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_carroDeVenta.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_Clientes.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_Empleados.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.login.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Principal.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.ventana_inicio.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbproj.GenerateResource.Cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.exe.manifest
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.application
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\bin\Debug\configuracion_texto.txt
+C:\Users\User\RATIO-PROYECTOS\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.configuracion.resources
+L:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe.config
+L:\Barberia\LaBarberia\obj\x86\Debug\Interop.VBIDE.dll
+L:\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbproj.ResolveComReference.cache
+L:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.exe
+L:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.xml
+L:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.pdb
+L:\Barberia\LaBarberia\bin\Debug\configuracion_texto.txt
+L:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe.manifest
+L:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.application
+L:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe
+L:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.pdb
+L:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.xml
+L:\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbprojResolveAssemblyReference.cache
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.agregarProducto.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.citas.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.configuracion.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_carroDeVenta.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_Clientes.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_Empleados.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.login.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Resources.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Principal.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.ventana_inicio.resources
+L:\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbproj.GenerateResource.Cache
+L:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.exe.manifest
+L:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.application
+F:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe.config
+F:\Barberia\LaBarberia\obj\x86\Debug\Interop.VBIDE.dll
+F:\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbproj.ResolveComReference.cache
+F:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.exe
+F:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.xml
+F:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.pdb
+F:\Barberia\LaBarberia\bin\Debug\configuracion_texto.txt
+F:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe.manifest
+F:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.application
+F:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.exe
+F:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.pdb
+F:\Barberia\LaBarberia\bin\Debug\LA BARBERIA PDV.xml
+F:\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbprojResolveAssemblyReference.cache
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.AboutBox1.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.agregarProducto.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.citas.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.configuracion.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_carroDeVenta.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_Clientes.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Form_Empleados.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.login.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.Principal.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\WindowsApplication1.ventana_inicio.resources
+F:\Barberia\LaBarberia\obj\x86\Debug\Barberia.vbproj.GenerateResource.Cache
+F:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.exe.manifest
+F:\Barberia\LaBarberia\obj\x86\Debug\LA BARBERIA PDV.application

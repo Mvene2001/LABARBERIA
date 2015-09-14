@@ -1,0 +1,3 @@
+﻿[testApp]
+KeyName=keyValue
+KeyName2=keyValue2
