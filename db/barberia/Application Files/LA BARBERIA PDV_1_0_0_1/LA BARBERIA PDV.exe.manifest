@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="LA BARBERIA PDV.exe" version="1.0.0.1" publicKeyToken="59e79212069220e8" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="LA BARBERIA PDV" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="LA BARBERIA PDV.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="LA BARBERIA PDV.exe" size="448000">
+      <assemblyIdentity name="LA BARBERIA PDV" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>rl+Nz2ndgpfrjU6dy7FT+a3l7wA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="LA BARBERIA PDV.exe.config" size="510">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>atjaj9RZQrrkWP0oadOoNOkKysw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=RATIO-LAP\RATIO-DESARROLLO" issuerKeyHash="45275818134e6419312b791efd1b211e59a02b08" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>bFsbeHRrr5iFbzBzYJat9thKdrs=</DigestValue></Reference></SignedInfo><SignatureValue>NCApkxZxzwNrIaF9UNwKh5v8m+1cEh/JvSUGvbTQsExXJyiTEajQ9MllxDYfMdU5ig/GXmVTeZecsJqLKsGv7rD4fLGr7L+FPFZfOx3+Nhc2CucI0y+5iiFk7Gwy1dPm5KEhJvAGRhCqiQjI+VCgBh58tFll1kSKnjcVBddXd/0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wNF1cz21/Lsx/t6Srw1L40kHFRlSQlN9NTCSjVe7jXTis55MOG07lcFq9j3tuQvAntVZQHQMTeyO6ZV1V5XzlukCf57ybr4pUd/g18uOJJAZ6DJNKcun1EjVkO+EqJnioCRlh/1XHnlKoWexgt+GU2pvsS1ewPrTRAfQ1ehaShE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bb764ad8f6ad966073306f8598af6b74781b5b6c" Description="" Url=""><as:assemblyIdentity name="LA BARBERIA PDV.exe" version="1.0.0.1" publicKeyToken="59e79212069220e8" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=RATIO-LAP\RATIO-DESARROLLO</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>1bmy+CqPXbnwr//CkZTCZ/cAWRU=</DigestValue></Reference></SignedInfo><SignatureValue>UNpS5d8pJLJn1lOow9CVYk4pr+FUdHqZQ+iLkQKTxvxISgR5xp3ynaK9IcuyMMsEpkfG4MhN6OFY9SVWDQxsQbY96F238srSexomruIFJqPu6jI2x0dmEkqJhyc76fbBZ6Iaog8xiC+wyL16XACWxyB4BqHKVoCY+tHwuaI8z90=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wNF1cz21/Lsx/t6Srw1L40kHFRlSQlN9NTCSjVe7jXTis55MOG07lcFq9j3tuQvAntVZQHQMTeyO6ZV1V5XzlukCf57ybr4pUd/g18uOJJAZ6DJNKcun1EjVkO+EqJnioCRlh/1XHnlKoWexgt+GU2pvsS1ewPrTRAfQ1ehaShE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQNyCecHD92LdBFA1+N0s5uTANBgkqhkiG9w0BAQUFADA/MT0wOwYDVQQDHjQAUgBBAFQASQBPAC0ATABBAFAAXABSAEEAVABJAE8ALQBEAEUAUwBBAFIAUgBPAEwATABPMB4XDTE1MDUxMjAzNDUyNFoXDTE2MDUxMTA5NDUyNFowPzE9MDsGA1UEAx40AFIAQQBUAEkATwAtAEwAQQBQAFwAUgBBAFQASQBPAC0ARABFAFMAQQBSAFIATwBMAEwATzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwNF1cz21/Lsx/t6Srw1L40kHFRlSQlN9NTCSjVe7jXTis55MOG07lcFq9j3tuQvAntVZQHQMTeyO6ZV1V5XzlukCf57ybr4pUd/g18uOJJAZ6DJNKcun1EjVkO+EqJnioCRlh/1XHnlKoWexgt+GU2pvsS1ewPrTRAfQ1ehaShECAwEAATANBgkqhkiG9w0BAQUFAAOBgQBe5YgqbeDg1kOka/QokrjV+xsCQe0wQL+2BZVZQCXFOctwwZResEsJAbLSaLLHUI2EGmRWsjYEplVlbnWOWOkUKbAd5kmtAQNUqYIp+5XKX4n82wgwFuvI7QVRsaE/j6r2lT9H8nB1YuA1YcQRngimv7oiT5xnlU/EqRKLLvBEFQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,20 @@
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Mvene\Documents\Visual Studio 2010\Projects\Tutoriales\Ejercicio1\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.cargarProducto.resources

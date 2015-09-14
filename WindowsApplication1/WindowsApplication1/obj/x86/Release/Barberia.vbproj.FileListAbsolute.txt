@@ -1,0 +1,28 @@
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.agregarProducto.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form_carroDeVenta.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.reportes.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\Barberia.vbproj.GenerateResource.Cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\Barberia.vbprojResolveAssemblyReference.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Principal.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\Interop.VBIDE.dll
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\Barberia.vbproj.ResolveComReference.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Release\LA BARBERIA PDV.exe.config
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Release\LA BARBERIA PDV.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Release\LA BARBERIA PDV.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Release\LA BARBERIA PDV.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.AboutBox1.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.login.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\LA BARBERIA PDV.exe
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\LA BARBERIA PDV.xml
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\LA BARBERIA PDV.pdb
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.ventana_inicio.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form_Clientes.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form_Empleados.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.citas.resources
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\RdlCompile.cache
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\RdlCompile.compiled
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Release\LA BARBERIA PDV.exe.manifest
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\bin\Release\LA BARBERIA PDV.application
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\LA BARBERIA PDV.exe.manifest
+C:\Users\User\RATIO-PROYECTOS\Barberia\WindowsApplication1\WindowsApplication1\obj\x86\Release\LA BARBERIA PDV.application
